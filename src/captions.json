@@ -1,0 +1,134 @@
+[
+ {
+  "id": "boot",
+  "text": "Booting up...",
+  "from": 70,
+  "to": 103
+ },
+ {
+  "id": "boot",
+  "text": "Oh!",
+  "from": 104,
+  "to": 116
+ },
+ {
+  "id": "boot",
+  "text": "Hi.",
+  "from": 118,
+  "to": 136
+ },
+ {
+  "id": "boot",
+  "text": "I'm Mira.",
+  "from": 137,
+  "to": 166
+ },
+ {
+  "id": "map",
+  "text": "This is Leon's whole world.",
+  "from": 310,
+  "to": 394
+ },
+ {
+  "id": "map",
+  "text": "Every project, every file, every routine.",
+  "from": 399,
+  "to": 528
+ },
+ {
+  "id": "map",
+  "text": "One living map.",
+  "from": 529,
+  "to": 590
+ },
+ {
+  "id": "work",
+  "text": "Ask me anything.",
+  "from": 610,
+  "to": 657
+ },
+ {
+  "id": "work",
+  "text": "I read the code, run the scripts, and show you exactly what I'm doing.",
+  "from": 658,
+  "to": 851
+ },
+ {
+  "id": "team",
+  "text": "Big job?",
+  "from": 914,
+  "to": 942
+ },
+ {
+  "id": "team",
+  "text": "I call in the team.",
+  "from": 943,
+  "to": 988
+ },
+ {
+  "id": "team",
+  "text": "Lead plans, coder builds, researcher digs.",
+  "from": 992,
+  "to": 1104
+ },
+ {
+  "id": "team",
+  "text": "And they all report back.",
+  "from": 1105,
+  "to": 1176
+ },
+ {
+  "id": "guard",
+  "text": "Small fixes just land.",
+  "from": 1204,
+  "to": 1273
+ },
+ {
+  "id": "guard",
+  "text": "Anything critical waits for Leon.",
+  "from": 1277,
+  "to": 1342
+ },
+ {
+  "id": "guard",
+  "text": "And it's all one click to undo.",
+  "from": 1343,
+  "to": 1435
+ },
+ {
+  "id": "fun",
+  "text": "I talk.",
+  "from": 1444,
+  "to": 1476
+ },
+ {
+  "id": "fun",
+  "text": "I listen.",
+  "from": 1477,
+  "to": 1512
+ },
+ {
+  "id": "fun",
+  "text": "I even dress up.",
+  "from": 1513,
+  "to": 1573
+ },
+ {
+  "id": "outro",
+  "text": "Mira OS.",
+  "from": 1753,
+  "to": 1806
+ },
+ {
+  "id": "outro",
+  "text": "Built in two days.",
+  "from": 1807,
+  "to": 1870
+ },
+ {
+  "id": "outro",
+  "text": "Imagine what's next.",
+  "from": 1871,
+  "to": 1933
+ }
+]

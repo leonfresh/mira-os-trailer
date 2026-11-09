@@ -1,0 +1,19 @@
+node_modules/
+out/
+*.log
+__pycache__/
+
+# the captured footage: rebuilt by scripts/capture.py and scripts/capture_map.py
+public/footage/
+public/short-chaos/footage/
+public/short-chaos/audio/
+public/short-chaos/rejected/
+public/short-agents/footage/
+public/short-agents/audio/
+
+# the mix and the stems: rebuilt by scripts/score.py (her voice wavs stay, they carry the mouth levels)
+public/audio/mix.wav
+public/audio/stem-*.wav
+
+# the channel-avatar stills: rebuilt by scripts/avatar_capture.py
+public/avatar/

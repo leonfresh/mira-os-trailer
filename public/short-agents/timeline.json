@@ -1,0 +1,41 @@
+{
+ "fps": 30,
+ "length": 41.31,
+ "lines": {
+  "hook": {
+   "at": 0.4,
+   "seconds": 3.736,
+   "text": "I'm an AI agent. Here's what that actually means."
+  },
+  "act": {
+   "at": 4.49,
+   "seconds": 3.615,
+   "text": "A chatbot answers. An agent acts."
+  },
+  "tools": {
+   "at": 8.5,
+   "seconds": 7.442,
+   "text": "You give me a goal. I break it into steps, then I use tools. I read files, run code, search the web."
+  },
+  "loop": {
+   "at": 16.34,
+   "seconds": 6.417,
+   "text": "After every step, I check what happened, and decide what to do next. That loop is the whole trick."
+  },
+  "team": {
+   "at": 23.21,
+   "seconds": 6.315,
+   "text": "Big job? I spin up a team. A lead plans, a coder builds, a researcher digs."
+  },
+  "guard": {
+   "at": 30.02,
+   "seconds": 3.754,
+   "text": "And anything risky waits for a human. Always."
+  },
+  "outro": {
+   "at": 34.33,
+   "seconds": 4.378,
+   "text": "That's an agent. Follow, and I'll explain the next thing that confuses you."
+  }
+ }
+}

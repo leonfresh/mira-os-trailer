@@ -1,0 +1,41 @@
+{
+ "fps": 30,
+ "length": 51.04,
+ "lines": {
+  "hook": {
+   "at": 0.4,
+   "seconds": 4.229,
+   "text": "This player just lost their queen. Watch what the king does next."
+  },
+  "setup": {
+   "at": 4.98,
+   "seconds": 5.75,
+   "text": "This is Chaos Chess. As the game goes on, you draft powers that break the rules."
+  },
+  "fall": {
+   "at": 11.13,
+   "seconds": 7.947,
+   "text": "Black runs a pawn down the board and crowns a queen. White takes it, and a rook takes White's queen. Down nine points."
+  },
+  "regicide": {
+   "at": 19.78,
+   "seconds": 5.327,
+   "text": "But White drafted Regicide. The king eats a knight, and the dead queen comes back."
+  },
+  "horde": {
+   "at": 26.8,
+   "seconds": 4.197,
+   "text": "Next up, Knight Horde. Two free knights, out of thin air."
+  },
+  "knook": {
+   "at": 32.9,
+   "seconds": 7.442,
+   "text": "And the finish: the Knook. A knight that moves like a rook. All the way up the file, and the king falls."
+  },
+  "outro": {
+   "at": 41.94,
+   "seconds": 6.5,
+   "text": "That was a real game, straight from the feed. Now draft your own, at chaos dot firechess dot com."
+  }
+ }
+}
